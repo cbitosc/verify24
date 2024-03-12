@@ -1,0 +1,622 @@
+[
+    {
+        "code": "critheshreddyO0001",
+        "holder": "C Rithesh Reddy of AI&DS Department"
+    },
+    {
+        "code": "paramgO0002",
+        "holder": "Param G. of AI&DS Department"
+    },
+    {
+        "code": "chjashwanthO0003",
+        "holder": "Ch Jashwanth of AI&DS Department"
+    },
+    {
+        "code": "rohanpagadalaO0004",
+        "holder": "Rohan Pagadala of AI&DS Department"
+    },
+    {
+        "code": "gajjebhargaviO0005",
+        "holder": "Gajje Bhargaviof AI&DS Department"
+    },
+    {
+        "code": "moneshjangamO0006",
+        "holder": "Monesh Jangamof AI&DS Department"
+    },
+    {
+        "code": "mankalmanasviO0007",
+        "holder": "Mankal Manasvi of AI&DS Department"
+    },
+    {
+        "code": "rtejasviniO0008",
+        "holder": "R.Tejasviniof AI&DS Department"
+    },
+    {
+        "code": "shriyaO0009",
+        "holder": "Shriyaof AI&DS Department"
+    },
+    {
+        "code": "dranadeepreddyO0010",
+        "holder": "D Ranadeep Reddyof AI&DS Department"
+    },
+    {
+        "code": "krishikesavreddyO0011",
+        "holder": "K.Rishi Kesav Reddy of AI&DS Department"
+    },
+    {
+        "code": "chinthakulajyothiO0012",
+        "holder": "Chinthakula Jyothi of AI&DS Department"
+    },
+    {
+        "code": "cherukusrilathaO0013",
+        "holder": "Cheruku Srilathaof AI&DS Department"
+    },
+    {
+        "code": "vbhanusaiO0014",
+        "holder": "V. Bhanu saiof AIML Department"
+    },
+    {
+        "code": "mohammedmuqeetussalamO0015",
+        "holder": "Mohammed Muqeet Us Salamof AIML Department"
+    },
+    {
+        "code": "shashankO0016",
+        "holder": "Shashankof AIML Department"
+    },
+    {
+        "code": "yelimelapranavO0017",
+        "holder": "Yelimela pranavof AIML Department"
+    },
+    {
+        "code": "manaswiniO0018",
+        "holder": "Manaswiniof BIO-TECH Department"
+    },
+    {
+        "code": "hasinipinnapureddyO0019",
+        "holder": "Hasini Pinnapureddyof BIO-TECH Department"
+    },
+    {
+        "code": "sjohnweslyO0020",
+        "holder": "S. John Wesly of BIO-TECH Department"
+    },
+    {
+        "code": "nmuhammadnawazpashaO0021",
+        "holder": "N Muhammad Nawaz Pasha of BIO-TECH Department"
+    },
+    {
+        "code": "bhoumiksiddharthO0022",
+        "holder": "Bhoumik Siddharth of BIO-TECH Department"
+    },
+    {
+        "code": "owaisO0023",
+        "holder": "Owaisof CET Department"
+    },
+    {
+        "code": "karenrjohnsonO0024",
+        "holder": "Karen R Johnson of CET Department"
+    },
+    {
+        "code": "shrinatyarlaO0025",
+        "holder": "Shrina Tyarla of CET Department"
+    },
+    {
+        "code": "mvineethaO0026",
+        "holder": "M Vineethaof CET Department"
+    },
+    {
+        "code": "kavyasriyakkalaO0027",
+        "holder": "Kavya Sri Yakkalaof CET Department"
+    },
+    {
+        "code": "saratreddyO0028",
+        "holder": "Sarat Reddyof CET Department"
+    },
+    {
+        "code": "namishvO0029",
+        "holder": "Namish Vof CET Department"
+    },
+    {
+        "code": "bsnuhithreddyO0030",
+        "holder": "B.Snuhith Reddyof CET Department"
+    },
+    {
+        "code": "abdulwasaeO0031",
+        "holder": "Abdul Wasae of CET Department"
+    },
+    {
+        "code": "omkarkabdeO0032",
+        "holder": "Omkar Kabdeof CET Department"
+    },
+    {
+        "code": "saisathvikreddybontuO0033",
+        "holder": "Sai Sathvik Reddy Bontuof CET Department"
+    },
+    {
+        "code": "masunahemashreeO0034",
+        "holder": "Masuna hemashreeof CET Department"
+    },
+    {
+        "code": "durgamsindhuO0035",
+        "holder": "Durgam Sindhuof CET Department"
+    },
+    {
+        "code": "maheshbhatO0036",
+        "holder": "Mahesh Bhatof CET Department"
+    },
+    {
+        "code": "krithikaO0037",
+        "holder": "Krithika of CET Department"
+    },
+    {
+        "code": "maddujuliajoyceO0038",
+        "holder": "Maddu Julia Joyceof CET Department"
+    },
+    {
+        "code": "kogilajaahnaviO0039",
+        "holder": "Kogila Jaahnavi of CET Department"
+    },
+    {
+        "code": "periketiviveksaiO0040",
+        "holder": "PERIKETI VIVEK SAI of CET Department"
+    },
+    {
+        "code": "amanichandanaO0041",
+        "holder": "A.Mani chandanaof CET Department"
+    },
+    {
+        "code": "jyotipasrijaO0042",
+        "holder": "Jyoti Pasrija of CHEMICAL Department"
+    },
+    {
+        "code": "samasuvarchalaO0043",
+        "holder": "Sama suvarchala of CHEMICAL Department"
+    },
+    {
+        "code": "saiO0044",
+        "holder": "Saiof CIVIL Department"
+    },
+    {
+        "code": "mohammedzakeraliO0045",
+        "holder": "MOHAMMED ZAKER ALIof CSE Department"
+    },
+    {
+        "code": "mirinayatahmedO0046",
+        "holder": "Mir Inayat Ahmedof CSE Department"
+    },
+    {
+        "code": "akashpingaliO0047",
+        "holder": "Akash Pingali of CSE Department"
+    },
+    {
+        "code": "shaikshariqzainpatelO0048",
+        "holder": "Shaik Shariqzain Patelof CSE Department"
+    },
+    {
+        "code": "srivarshachivukulaO0049",
+        "holder": "Srivarsha Chivukulaof CSE Department"
+    },
+    {
+        "code": "karthikalluriO0050",
+        "holder": "Karthik Alluriof CSE Department"
+    },
+    {
+        "code": "lingamjohnethanO0051",
+        "holder": "Lingam John Ethanof CSE Department"
+    },
+    {
+        "code": "mharshkumarO0052",
+        "holder": "M. Harsh kumarof CSE Department"
+    },
+    {
+        "code": "nishaanthO0053",
+        "holder": "Nishaanthof CSE Department"
+    },
+    {
+        "code": "podishettisaitejaO0054",
+        "holder": "Podishetti Saiteja of CSE Department"
+    },
+    {
+        "code": "bkarthikeyaO0055",
+        "holder": "B.karthikeyaof CSE Department"
+    },
+    {
+        "code": "karthikeyaboorlaO0056",
+        "holder": "Karthikeya Boorlaof CSE Department"
+    },
+    {
+        "code": "juveriyakhanO0057",
+        "holder": "Juveriya khanof CSE Department"
+    },
+    {
+        "code": "varunreddyO0058",
+        "holder": "Varun reddy of CSE Department"
+    },
+    {
+        "code": "jvarunO0059",
+        "holder": "J Varunof CSE Department"
+    },
+    {
+        "code": "hindumuppalaO0060",
+        "holder": "Hindu Muppalaof CSE Department"
+    },
+    {
+        "code": "banavathnikithaO0061",
+        "holder": "Banavath Nikitha of CSE Department"
+    },
+    {
+        "code": "vihariO0062",
+        "holder": "Vihari of CSE Department"
+    },
+    {
+        "code": "rmanjulaO0063",
+        "holder": "R.Manjulaof CSE Department"
+    },
+    {
+        "code": "keerthireddyganguO0064",
+        "holder": "Keerthi Reddy gangu of CSE Department"
+    },
+    {
+        "code": "chviswanathanandO0065",
+        "holder": "CH Viswanath Anandof CSE Department"
+    },
+    {
+        "code": "kodipyakavamshikrishnaO0066",
+        "holder": "Kodipyaka Vamshi Krishnaof CSE Department"
+    },
+    {
+        "code": "kushalreddyO0067",
+        "holder": "Kushal Reddy of CSE Department"
+    },
+    {
+        "code": "prathikraoO0068",
+        "holder": "Prathik Rao of CSE Department"
+    },
+    {
+        "code": "andeharshitapoojaO0069",
+        "holder": "Ande Harshita poojaof CSE Department"
+    },
+    {
+        "code": "pragallapatisakethO0070",
+        "holder": "Pragallapati Saketh of CSE Department"
+    },
+    {
+        "code": "psarikareddyO0071",
+        "holder": "P.Sarika Reddyof CSE Department"
+    },
+    {
+        "code": "koreprudhvikumarO0072",
+        "holder": "Kore Prudhvi Kumarof CSE Department"
+    },
+    {
+        "code": "tulasisreemoukthikaO0073",
+        "holder": "Tulasi Sree Moukthika of CSE Department"
+    },
+    {
+        "code": "leelabhavanigollapothuO0074",
+        "holder": "Leela Bhavani Gollapothu of CSE Department"
+    },
+    {
+        "code": "toklesreejaO0075",
+        "holder": "Tokle Sreeja of CSE Department"
+    },
+    {
+        "code": "shifaanjumO0076",
+        "holder": "Shifa Anjum of CSE Department"
+    },
+    {
+        "code": "yarakalapudivinayO0077",
+        "holder": "Yarakalapudi vinay of CSE Department"
+    },
+    {
+        "code": "gaddalasravaniO0078",
+        "holder": "Gaddala Sravaniof CSE Department"
+    },
+    {
+        "code": "rmounikaO0079",
+        "holder": "R.Mounikaof CSE Department"
+    },
+    {
+        "code": "amballasnehaO0080",
+        "holder": "Amballa Snehaof CSE Department"
+    },
+    {
+        "code": "tsridivyapranaviO0081",
+        "holder": "T. Sri Divya Pranaviof CSE Department"
+    },
+    {
+        "code": "chipparevanthO0082",
+        "holder": "Chippa Revanth of CSE Department"
+    },
+    {
+        "code": "sutraputhrishaO0083",
+        "holder": "Sutrapu Thrisha of CSE Department"
+    },
+    {
+        "code": "fardeenO0084",
+        "holder": "Fardeenof CSE Department"
+    },
+    {
+        "code": "jagadheeshO0085",
+        "holder": "Jagadheesh of CSE Department"
+    },
+    {
+        "code": "banavathrohithO0086",
+        "holder": "Banavath Rohith of CSE Department"
+    },
+    {
+        "code": "mohammedarhaanO0087",
+        "holder": "Mohammed Arhaan of CSE Department"
+    },
+    {
+        "code": "vaishnavibillaO0088",
+        "holder": "Vaishnavi Billa of CSE Department"
+    },
+    {
+        "code": "srihanreddypashamO0089",
+        "holder": "Srihan Reddy Pashamof CSE Department"
+    },
+    {
+        "code": "singasanidurganitishkrishnaO0090",
+        "holder": "Singasani Durga Nitish Krishnaof CSE Department"
+    },
+    {
+        "code": "ravidasariO0091",
+        "holder": "Ravi Dasariof CSE Department"
+    },
+    {
+        "code": "sreeneshreddyO0092",
+        "holder": "Sreenesh Reddy of AIML Department"
+    },
+    {
+        "code": "tlakshmirohitO0093",
+        "holder": "T. Lakshmi Rohit of AIML Department"
+    },
+    {
+        "code": "narasimhaO0094",
+        "holder": "Narasimha of AIML Department"
+    },
+    {
+        "code": "pervezmubeenO0095",
+        "holder": "Pervez Mubeen of AIML Department"
+    },
+    {
+        "code": "gmadhuriO0096",
+        "holder": "G.Madhuriof AIML Department"
+    },
+    {
+        "code": "nashrithagowthamiO0097",
+        "holder": "N.Ashritha Gowthami of AIML Department"
+    },
+    {
+        "code": "rishwanththallapalliO0098",
+        "holder": "Rishwanth Thallapalli of AIML Department"
+    },
+    {
+        "code": "avinashpujariO0099",
+        "holder": "Avinash Pujari of AIML Department"
+    },
+    {
+        "code": "mohammadameersohailO0100",
+        "holder": "Mohammad Ameer Sohail of AIML Department"
+    },
+    {
+        "code": "bommareddysrisanjanaO0101",
+        "holder": "BOMMAREDDY SRI SANJANA of AIML Department"
+    },
+    {
+        "code": "bmalleshwariO0102",
+        "holder": "B.Malleshwariof AIML Department"
+    },
+    {
+        "code": "shyamalaO0103",
+        "holder": "Shyamala of AIML Department"
+    },
+    {
+        "code": "mandalasrimannarayanaO0104",
+        "holder": "Mandala Sriman Narayanaof AIML Department"
+    },
+    {
+        "code": "tariniO0105",
+        "holder": "Tarini of AIML Department"
+    },
+    {
+        "code": "sharankumarthummalaO0106",
+        "holder": "Sharan Kumar Thummalaof AIML Department"
+    },
+    {
+        "code": "kprakarshaO0107",
+        "holder": "K . PRAKARSHA of AIML Department"
+    },
+    {
+        "code": "kprabhanjanO0108",
+        "holder": "K Prabhanjanof ECE Department"
+    },
+    {
+        "code": "vtejalO0109",
+        "holder": "V. Tejalof ECE Department"
+    },
+    {
+        "code": "cvschaitanyaO0110",
+        "holder": "C.V.S Chaitanyaof ECE Department"
+    },
+    {
+        "code": "gpreetivardhiniO0111",
+        "holder": "G. Preeti Vardhini of ECE Department"
+    },
+    {
+        "code": "navpreethivardhanO0112",
+        "holder": "Nav Preethivardhan of ECE Department"
+    },
+    {
+        "code": "kveerabrahmendraO0113",
+        "holder": "K.Veera Brahmendra of ECE Department"
+    },
+    {
+        "code": "pkeerthiO0114",
+        "holder": "P Keerthi of ECE Department"
+    },
+    {
+        "code": "pajayreddyO0115",
+        "holder": "P AJAY REDDY of ECE Department"
+    },
+    {
+        "code": "pmahendharreddyO0116",
+        "holder": "P.mahendhar reddy of EEE Department"
+    },
+    {
+        "code": "nshireeshaO0117",
+        "holder": "N shireeshaof EEE Department"
+    },
+    {
+        "code": "svarshaO0118",
+        "holder": "S.varshaof EEE Department"
+    },
+    {
+        "code": "navyamattaO0119",
+        "holder": "Navya Mattaof IT Department"
+    },
+    {
+        "code": "vashishO0120",
+        "holder": "V Ashishof IT Department"
+    },
+    {
+        "code": "mohammedabdulrafesajidO0121",
+        "holder": "Mohammed Abdul Rafe Sajid of IT Department"
+    },
+    {
+        "code": "aryamangajraniO0122",
+        "holder": "Aryaman Gajraniof IT Department"
+    },
+    {
+        "code": "isaisushankO0123",
+        "holder": "I Sai Sushank of IT Department"
+    },
+    {
+        "code": "abdulraheemO0124",
+        "holder": "Abdul Raheem of IT Department"
+    },
+    {
+        "code": "mullevayogeshchoudharyO0125",
+        "holder": "MULLEVA YOGESH CHOUDHARY of IT Department"
+    },
+    {
+        "code": "bodapatlamanobhiramreddyO0126",
+        "holder": "BODAPATLA MANOBHIRAM REDDYof IT Department"
+    },
+    {
+        "code": "bhargavkolluruO0127",
+        "holder": "Bhargav Kolluruof IT Department"
+    },
+    {
+        "code": "swamyvenkatanagamuraliO0128",
+        "holder": "SWAMY VENKATA NAGA MURALIof IT Department"
+    },
+    {
+        "code": "hrishikreddyO0129",
+        "holder": "Hrishik Reddyof IT Department"
+    },
+    {
+        "code": "mohammedfaizanulislamO0130",
+        "holder": "MOHAMMED FAIZAN UL ISLAM of IT Department"
+    },
+    {
+        "code": "ksaibalajiO0131",
+        "holder": "K Sai Balajiof IT Department"
+    },
+    {
+        "code": "madathanapalleleenaO0132",
+        "holder": "Madathanapalle Leena of IT Department"
+    },
+    {
+        "code": "priyanshunerellaO0133",
+        "holder": "Priyanshu Nerellaof IT Department"
+    },
+    {
+        "code": "amaithiliO0134",
+        "holder": "A.Maithiliof IT Department"
+    },
+    {
+        "code": "mseshadrinaiduO0135",
+        "holder": "M.Seshadri Naidu of IT Department"
+    },
+    {
+        "code": "rithwikO0136",
+        "holder": "Rithwik of IT Department"
+    },
+    {
+        "code": "kabhiramO0137",
+        "holder": "K. Abhiram of IT Department"
+    },
+    {
+        "code": "jsanthoshreddyO0138",
+        "holder": "J.Santhosh Reddyof IT Department"
+    },
+    {
+        "code": "phanikumarO0139",
+        "holder": "Phani Kumar of IT Department"
+    },
+    {
+        "code": "mvedaanthsinghO0140",
+        "holder": "M.Vedaanth Singh of IT Department"
+    },
+    {
+        "code": "lakshjainO0141",
+        "holder": "Laksh jain of IT Department"
+    },
+    {
+        "code": "vinithreddybandaO0142",
+        "holder": "Vinith Reddy Bandaof IT Department"
+    },
+    {
+        "code": "gvigneshO0143",
+        "holder": "G.Vigneshof IT Department"
+    },
+    {
+        "code": "rohanjadhavO0144",
+        "holder": "ROHAN JADHAV of IT Department"
+    },
+    {
+        "code": "gharikaO0145",
+        "holder": "G.Harikaof IT Department"
+    },
+    {
+        "code": "laxmidevichitralaO0146",
+        "holder": "Laxmidevi Chitrala of IT Department"
+    },
+    {
+        "code": "samikshapodichettyO0147",
+        "holder": "SAMIKSHA PODICHETTYof IT Department"
+    },
+    {
+        "code": "soumyavemuriO0148",
+        "holder": "Soumya Vemuri of IT Department"
+    },
+    {
+        "code": "appalameenakshisindhujaO0149",
+        "holder": "APPALA MEENAKSHI SINDHUJA of IT Department"
+    },
+    {
+        "code": "srilakshmiO0150",
+        "holder": "Srilakshmi of IT Department"
+    },
+    {
+        "code": "skalmasegoherO0151",
+        "holder": "Sk Almase Goher of IT Department"
+    },
+    {
+        "code": "dikshantsinghO0152",
+        "holder": "Dikshant Singhof IT Department"
+    },
+    {
+        "code": "mshivaniO0153",
+        "holder": "M SHIVANIof IT Department"
+    },
+    {
+        "code": "tnikhithaO0154",
+        "holder": "T.Nikhithaof IT Department"
+    },
+    {
+        "code": "akashO0155",
+        "holder": "Akash of MECHANICAL Department"
+    }
+]
