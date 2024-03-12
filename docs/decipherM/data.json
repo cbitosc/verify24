@@ -1,0 +1,32 @@
+[
+    {
+        "code": "dupativamshiDM0001",
+        "holder": "DUPATI VAMSHI of MECHANICAL Department",
+        "position": "first"
+    },
+    {
+        "code": "punnamkotaDM0002",
+        "holder": "PUNNAM KOTA of IT Department",
+        "position": "first"
+    },
+    {
+        "code": "peddisailohithDM0003",
+        "holder": "Peddi Sai Lohith of CET Department",
+        "position": "second"
+    },
+    {
+        "code": "saisathvikDM0004",
+        "holder": "Sai Sathvik of CET Department",
+        "position": "second"
+    },
+    {
+        "code": "mohammadabdulmuqeetDM0005",
+        "holder": "Mohammad Abdul Muqeet of ECE Department",
+        "position": "third"
+    },
+    {
+        "code": "mohammedaumeralikhanDM0006",
+        "holder": "Mohammed Aumer Ali Khan of ECE Department",
+        "position": "third"
+    }
+]
