@@ -1,6 +1,10 @@
+body {
+    max-width: 100%;
+}
+
 @font-face {
     font-family: "Baskerville-old-face";
-    src: url("/assets/fonts/Baskerville-old-face.ttf") format("truetype");
+    src: url("/verify24/assests/fonts/BASKVILL.ttf") format("truetype");
     /* You can define additional properties such as font-weight, font-style, etc. */
 }
 
@@ -30,4 +34,21 @@
         font-size: 0.8rem;
         line-height: 1.2rem;
     }
+}
+
+.transform img {
+    /* -webkit-transform: scale(0.25);
+    -webkit-transform-origin: top left;
+    transform: scale(0.25);
+    transform-origin: top left; */
+    width: 100%;
+    max-width: 96px;
+    height: auto;
+}
+
+.image-container img,
+canvas {
+    width: 100%;
+    max-width: 96px;
+    height: auto;
 }

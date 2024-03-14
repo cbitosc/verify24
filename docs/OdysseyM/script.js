@@ -63,13 +63,13 @@ document.addEventListener("DOMContentLoaded", function () {
                     correctLevel: QRCode.CorrectLevel.H,
                 });
 
-                const scaleFactor = 96 / 384;
+                // const scaleFactor = 96 / 384;
 
-                qrContainer.style.transform = "scale(" + scaleFactor + ")";
-                qrContainer.style.transformOrigin = "top left";
+                // qrContainer.style.transform = "scale(" + scaleFactor + ")";
+                // qrContainer.style.transformOrigin = "top left";
 
-                qrContainer.style.width = "96px";
-                qrContainer.style.height = "96px";
+                // qrContainer.style.width = "96px";
+                // qrContainer.style.height = "96px";
             } else {
                 console.error(
                     "No matching entry found for the provided odyssey code."
